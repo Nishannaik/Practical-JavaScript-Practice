@@ -7,4 +7,4 @@ In above submissions, their is a code contains related to creating and submittin
 Finally a good project reaction tester covered which practices this things even beetter.
 
 Feel to free to visit these codes and give comments and feedback!!!
-- thanks nishant naik
+- thanks and regards nishant naik
