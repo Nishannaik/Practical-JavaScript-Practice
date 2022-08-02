@@ -8,3 +8,5 @@ Finally a good project reaction tester covered which practices this things even 
 
 Feel to free to visit these codes and give comments and feedback!!!
 - thanks and regards nishant naik
+
+rememberable thing : creating elment i.e. getElementById and attaching it to css selectors that is to class or id and then perform the operation again writing code bycrateing function and in that function declaring code that we to do taskd like animation or  things. 
